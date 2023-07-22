@@ -8,4 +8,3 @@
 * edge removal using MLP + conv
 
 # DYADIC-FAIRNESS
-# DYADIC-FAIRNESS
